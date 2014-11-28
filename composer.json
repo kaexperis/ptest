@@ -1,0 +1,21 @@
+{
+    "name": "kaushik/ptest",
+    "description": "This is my first package, just to check how it works",
+    "license": "MIT",
+    "keywords": ["ptest"],
+    "authors": [
+        {
+            "name": "Kaushik Chatterjee",
+            "email": "kachatterjee@experisindia.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kaushik\\ptest\\": "src"
+        }
+    }
+}
