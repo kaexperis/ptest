@@ -2,6 +2,10 @@
  
 class Ptest {
  
+  public function __construct() {
+	$this->hello - 'pop';
+  }
+  
   public function hasCheese($bool = true)
   {
     return $bool;
