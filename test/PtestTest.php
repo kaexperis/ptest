@@ -1,6 +1,6 @@
 <?php
  
-use Kaushik\Ptest\Ptest;
+use Kaushik\Ptest;
  
 class PtestTest extends PHPUnit_Framework_TestCase {
  
