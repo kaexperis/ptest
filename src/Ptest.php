@@ -1,4 +1,4 @@
-<?php namespace Kaushik\Ptest;
+<?php namespace Kaushik;
  
 class Ptest {
  
